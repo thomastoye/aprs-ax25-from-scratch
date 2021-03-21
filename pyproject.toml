@@ -13,6 +13,7 @@ numpy = "^1.20.1"
 pyrtlsdr = "^0.2.92"
 matplotlib = "^3.3.4"
 scipy = "^1.6.1"
+opencv-python = "^4.5.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
